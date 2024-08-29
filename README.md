@@ -1,4 +1,4 @@
-# Project #: Project Name
+# Project #1: Begin
 
 * Author: Kodey Thompson
 * Class: CS321 Section 4001
